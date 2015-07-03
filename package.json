@@ -1,5 +1,5 @@
 {
-  "name": "fly",
+  "name": "au-proxy-fly",
   "version": "1.0.0",
   "description": "Fly",
   "keywords": [
@@ -15,11 +15,9 @@
     "type": "git",
     "url": "https://github.com/amibug/fly.git"
   },
-  "licenses": [
-    {
-      "type": "MIT"
-    }
-  ],
+  "licenses": [{
+    "type": "MIT"
+  }],
   "devDependencies": {
     "grunt-contrib-jshint": "~0.7.2",
     "grunt-contrib-qunit": "~0.3.0",

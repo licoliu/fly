@@ -1,6 +1,10 @@
 {
-  "name": "fly",
+  "name": "au-proxy-fly",
   "version": "1.0.0",
+  "main": [
+    "./dist/jquery.fly.js",
+    "./src/requestAnimationFrame.js"
+  ],
   "dependencies": {},
   "devDependencies": {
     "qunit": "~1.12.0",
